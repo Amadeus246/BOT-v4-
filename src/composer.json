@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/bot",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "amadeus",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "smalot/pdfparser": "^1.0"
+  }
+}
